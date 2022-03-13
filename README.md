@@ -32,22 +32,22 @@ In this project, we use unsupervised learning to discover patterns and groups in
 
 ## Results
 ##### One-Hot Encoding
-![One_Hot_Encoding](one_hot_encoding.png)
+![One_Hot_Encoding](images/one_hot_encoding.png)
 
 ##### Principal Component Analysis DataFrame
-![PCA_DataFrame](pca_df.png)
+![PCA_DataFrame](images/pca_df.png)
 
 ##### Elbow Curve
-![Elbow_Curve](elbow_curve.png)
+![Elbow_Curve](images/elbow_curve.png)
 
 ##### 3D-Scatter with the PCA data and the clusters
-![3D_Scatter](3D_scatter.png)
+![3D_Scatter](images/3D_scatter.png)
 
 ##### Hvplot Table with tradable cryptocurrencies
-![Hvplot_Table](hvplot_table.png)
+![Hvplot_Table](images/hvplot_table.png)
 
 ##### Hvplot Scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply".
-![Hvplot_Scatter](hvplot_scatter.png)
+![Hvplot_Scatter](images/hvplot_scatter.png)
 
 
 ### Summary
